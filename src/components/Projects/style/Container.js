@@ -3,6 +3,7 @@ import styled from "@emotion/styled";
 const Container = styled.div`
   display: flex;
   width: 100vw;
+  height: 100vw;
   align-items: center;
   flex-direction: column;
   background: ${(props) => props.theme.bg};
