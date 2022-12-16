@@ -5,12 +5,6 @@ import ProjectWrapper from "./style/ProjectWrapper";
 const ProjectsPage = () => {
   const data = [
     {
-      name: "My Portfolio Website",
-      description:
-        "This is my portfolio website. It is built with React. It's a Progressive Web App (PWA) and could be installed as native app and works offline as well.",
-      link: "https://abhishekgautam08.github.io",
-    },
-    {
       name: "Expense",
       description: "Expense tracker app fueled by React.JS",
       link: "https://react-expense-tracker-v-1-0.netlify.app",
