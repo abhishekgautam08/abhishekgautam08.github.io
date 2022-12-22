@@ -20,7 +20,7 @@ const AboutPage = () => {
             Progressive Web App (PWA), Service Workers, Push Notification etc.
           </p>
           <a
-            href="https://drive.google.com/file/d/1-eQJLWFPLApfn05-xbHbpgXhmyBtc-K9/view?usp=share_link"
+            href="https://drive.google.com/drive/folders/1rDsdNEElGXe9Q-J6C-q7P_Aqj8Xi8GqZ?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
