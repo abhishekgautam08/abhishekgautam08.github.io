@@ -21,11 +21,17 @@ const ProjectsPage = () => {
         "An e-commerce app which is built using React where Redux is used for state management",
       link: "https://shop-now-v1.netlify.app",
     },
+    // {
+    //   name: "Notebook",
+    //   description:
+    //     "A fullstack MERN based web app that helps users in managing notes after authenticating them",
+    //   link: "https://notebook-v-1.netlify.app",
+    // },
     {
-      name: "Notebook",
+      name: "Movie-Info",
       description:
-        "A fullstack MERN based web app that helps users in managing notes after authenticating them",
-      link: "https://notebook-v-1.netlify.app",
+        "A movie Info App  which is built using React Get movies details based on user search.",
+      link: "https://movie-info-version1.netlify.app/",
     },
   ];
   return (
